@@ -7,7 +7,11 @@ import Card from './components/Card';
 
 ReactDOM.render(
   <React.StrictMode>
+  <div>
     <Card  />
+    <Card  />
+    <Card  />
+  </div>
   </React.StrictMode>,
   document.getElementById('root')
 );
