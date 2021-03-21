@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robots-card/static/css/main.7978c2dc.chunk.css",
+    "main.js": "/Robots-card/static/js/main.6882466c.chunk.js",
+    "main.js.map": "/Robots-card/static/js/main.6882466c.chunk.js.map",
+    "runtime-main.js": "/Robots-card/static/js/runtime-main.c3033c06.js",
+    "runtime-main.js.map": "/Robots-card/static/js/runtime-main.c3033c06.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Robots-card/static/css/2.fe359a49.chunk.css",
+    "static/js/2.fc9d851d.chunk.js": "/Robots-card/static/js/2.fc9d851d.chunk.js",
+    "static/js/2.fc9d851d.chunk.js.map": "/Robots-card/static/js/2.fc9d851d.chunk.js.map",
+    "static/js/3.00fa0fb5.chunk.js": "/Robots-card/static/js/3.00fa0fb5.chunk.js",
+    "static/js/3.00fa0fb5.chunk.js.map": "/Robots-card/static/js/3.00fa0fb5.chunk.js.map",
+    "index.html": "/Robots-card/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Robots-card/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.7978c2dc.chunk.css.map": "/Robots-card/static/css/main.7978c2dc.chunk.css.map",
+    "static/js/2.fc9d851d.chunk.js.LICENSE.txt": "/Robots-card/static/js/2.fc9d851d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3033c06.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.fc9d851d.chunk.js",
+    "static/css/main.7978c2dc.chunk.css",
+    "static/js/main.6882466c.chunk.js"
+  ]
+}
