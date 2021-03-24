@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Robots-card/static/css/main.7978c2dc.chunk.css",
-    "main.js": "/Robots-card/static/js/main.6882466c.chunk.js",
-    "main.js.map": "/Robots-card/static/js/main.6882466c.chunk.js.map",
+    "main.js": "/Robots-card/static/js/main.52a3c2f3.chunk.js",
+    "main.js.map": "/Robots-card/static/js/main.52a3c2f3.chunk.js.map",
     "runtime-main.js": "/Robots-card/static/js/runtime-main.c3033c06.js",
     "runtime-main.js.map": "/Robots-card/static/js/runtime-main.c3033c06.js.map",
     "static/css/2.fe359a49.chunk.css": "/Robots-card/static/css/2.fe359a49.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.fc9d851d.chunk.js",
     "static/css/main.7978c2dc.chunk.css",
-    "static/js/main.6882466c.chunk.js"
+    "static/js/main.52a3c2f3.chunk.js"
   ]
 }
